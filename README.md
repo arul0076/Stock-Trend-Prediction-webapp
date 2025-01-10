@@ -27,27 +27,27 @@ This web app is made using -
 ⁕**Visualisation**
 
 
-![](images/Screenshot1.png)
+![](Screenshot1.png)
 
 
 ⁕**100 mean average graph**
 
 
-![](images/Screenshot_100ma.png)
+![](Screenshot_100ma.png)
 
 
 
 ⁕**200 mean average graph**
 
 
-![](images/Screenshot_200ma.png)
+![](Screenshot_200ma.png)
 
 
 
 ⁕**Original VS Prediction graph**
 
 
-![](images/Screenshot_originalVSprediction.png)
+![](Screenshot_originalVSprediction.png)
 
 
 
